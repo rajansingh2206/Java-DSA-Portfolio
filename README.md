@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
