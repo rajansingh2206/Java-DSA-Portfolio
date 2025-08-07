@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
 ## Matrix
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
