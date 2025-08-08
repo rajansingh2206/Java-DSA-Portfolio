@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0074-search-a-2d-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
