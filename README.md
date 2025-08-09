@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
