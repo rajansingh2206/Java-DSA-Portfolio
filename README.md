@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
