@@ -6,10 +6,10 @@ class Solution {
         {
             map.put(val,map.getOrDefault(val,0)+1);
         }
-        for(int val:nums)
+        for(Map.Entry<Integer,Integer> entry:map.entrySet())
         {
-            if(map.getOrDefault(val,0)==1)
-                return val;
+            if(entry.getValue()==1)
+                return entry.getKey();
         }
         return -1;
     }
