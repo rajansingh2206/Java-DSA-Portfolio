@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
