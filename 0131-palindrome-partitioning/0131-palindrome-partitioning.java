@@ -13,7 +13,7 @@ class Solution {
         }
         for (int i = 0; i < s.length(); i++) {
             String sub = s.substring(0, i + 1);
-            if (isPalindrome(sub)) {
+            if (isPalindrome(sub, 0, i)) {
                 partitions.add(sub);
                 backtrack(s.substring(i + 1), partitions, ans);
                 partitions.remove(partitions.size() - 1);
@@ -21,10 +21,15 @@ class Solution {
         }
     }
 
-    private boolean isPalindrome(String str) {
-        StringBuffer sb = new StringBuffer(str);
-        String reverse = sb.reverse().toString();
-        return str.equals(reverse);
+    private boolean isPalindrome(String s, int start, int end) {
+        while (start <= end) {
+            if (s.charAt(start) != s.charAt(end)) {
+                return false;
+            }
+            start++;
+            end--;
+        }
+        return true;
     }
 
 }
