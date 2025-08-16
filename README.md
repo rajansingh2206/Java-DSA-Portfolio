@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
+| [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
