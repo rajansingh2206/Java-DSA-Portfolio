@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
