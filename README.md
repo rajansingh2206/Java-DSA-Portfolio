@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
