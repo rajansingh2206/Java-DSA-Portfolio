@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Recursion
