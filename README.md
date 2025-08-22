@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
