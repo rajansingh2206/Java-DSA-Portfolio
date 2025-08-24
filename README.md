@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
