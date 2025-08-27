@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
@@ -277,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
