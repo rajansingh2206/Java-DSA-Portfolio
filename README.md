@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
