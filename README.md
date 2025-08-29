@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 ## Stack
