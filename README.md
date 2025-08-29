@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1025-minimum-cost-for-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1025-minimum-cost-for-tickets) |
 ## Stack
 |  |
 | ------- |
