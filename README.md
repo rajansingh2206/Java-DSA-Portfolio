@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0908-middle-of-the-linked-list) |
 ## Memoization
 |  |
@@ -321,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
