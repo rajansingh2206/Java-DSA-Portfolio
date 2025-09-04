@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0141-linked-list-cycle) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0142-linked-list-cycle-ii) |
