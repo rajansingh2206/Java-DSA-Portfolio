@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Binary Search
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0076-minimum-window-substring) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
