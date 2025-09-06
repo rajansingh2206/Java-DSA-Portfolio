@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
