@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0072-edit-distance) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
