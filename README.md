@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
@@ -343,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
