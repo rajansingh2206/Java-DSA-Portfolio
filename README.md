@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -365,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
