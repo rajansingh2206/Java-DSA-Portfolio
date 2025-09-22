@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Binary Search
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0718-maximum-length-of-repeated-subarray) |
