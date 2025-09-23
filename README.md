@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1025-minimum-cost-for-tickets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2195-time-needed-to-buy-tickets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
