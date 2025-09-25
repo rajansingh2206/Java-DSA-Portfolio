@@ -15,27 +15,24 @@
  */
 class Solution {
     private int preIdx=0;
-    private int searchInIdx(int[] inorder,int left,int right,int val)
-    {
-        for(int i=left;i<=right;i++)
-        {
-            if(inorder[i]==val)
-                return i;
-        }
-        return -1;
-    }
+    private Map<Integer,Integer> inorderMap;
     public TreeNode helper(int[] preorder, int[] inorder,int left,int right)
     {
         if(left>right)
             return null;
         TreeNode root=new TreeNode(preorder[preIdx]);
-        int inIdx=searchInIdx(inorder,left,right,preorder[preIdx]);
+        int inIdx=inorderMap.get(preorder[preIdx]);
         preIdx++;
         root.left=helper(preorder,inorder,left,inIdx-1);
         root.right=helper(preorder,inorder,inIdx+1,right);
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        inorderMap=new HashMap<>();
+        for(int i=0;i<inorder.length;i++)
+        {
+            inorderMap.put(inorder[i],i);
+        }
         return helper(preorder,inorder,0,inorder.length-1);
     }
 }
