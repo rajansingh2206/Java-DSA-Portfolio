@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0142-linked-list-cycle-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0145-binary-tree-postorder-traversal) |
