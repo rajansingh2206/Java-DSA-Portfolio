@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0096-unique-binary-search-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0538-convert-bst-to-greater-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
