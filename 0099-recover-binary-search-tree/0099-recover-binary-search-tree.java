@@ -30,7 +30,8 @@ class Solution {
             return;
 
         helper2(root.left);
-        root.val=list.get(idx);
+        if(root.val!=list.get(idx))
+            root.val=list.get(idx);
         idx++;
         helper2(root.right);
 
