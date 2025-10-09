@@ -14,35 +14,29 @@
  * }
  */
 class Solution {
-    private List<Integer> list=new ArrayList<>();
-    private int idx=0;
+    private TreeNode first;
+    private TreeNode second;
+    private TreeNode prev;
     public void recoverTree(TreeNode root) {
-
-        helper(root);
-        Collections.sort(list);
-        helper2(root);
-        for(int i=0;i<list.size();i++)
-            System.out.print(list.get(i)+" ");
+        inorder(root);
+        int temp=first.val;
+        first.val=second.val;
+        second.val=temp;
     }
-    private void helper2(TreeNode root)
+    private void inorder(TreeNode root)
     {
         if(root==null)
             return;
 
-        helper2(root.left);
-        if(root.val!=list.get(idx))
-            root.val=list.get(idx);
-        idx++;
-        helper2(root.right);
+        inorder(root.left);
+        if(prev!=null && prev.val>root.val)
+        {
+            if(first==null)
+                first=prev;
 
-    }
-    private void helper(TreeNode root)
-    {
-        if(root==null)
-            return;
-
-        helper(root.left);
-        list.add(root.val);
-        helper(root.right);
+            second=root;
+        }
+        prev=root;
+        inorder(root.right);
     }
 }
