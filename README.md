@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0142-linked-list-cycle-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
