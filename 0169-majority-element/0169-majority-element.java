@@ -1,7 +1,8 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int freq=0;
         int ans=0;
+        int freq=0;
+
         for(int i=0;i<nums.length;i++)
         {
             if(freq==0)
@@ -13,4 +14,5 @@ class Solution {
         }
         return ans;
     }
+
 }
