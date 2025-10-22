@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1250-longest-common-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
