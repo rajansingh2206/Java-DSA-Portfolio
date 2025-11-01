@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
 ## Linked List
@@ -510,8 +512,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0684-redundant-connection) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
