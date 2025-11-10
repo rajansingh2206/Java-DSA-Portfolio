@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3227-find-missing-and-repeated-values) |
