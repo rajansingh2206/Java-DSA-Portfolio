@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0300-longest-increasing-subsequence) |
