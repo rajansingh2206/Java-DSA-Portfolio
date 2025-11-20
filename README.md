@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1250-longest-common-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2032-largest-odd-number-in-string) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
 ## Graph
 |  |
 | ------- |
