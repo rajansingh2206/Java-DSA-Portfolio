@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0061-rotate-list) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0072-edit-distance) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
 ## Graph
