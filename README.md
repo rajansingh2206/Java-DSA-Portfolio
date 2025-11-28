@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3280-convert-date-to-binary](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3280-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3227-find-missing-and-repeated-values) |
+| [3280-convert-date-to-binary](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3280-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
