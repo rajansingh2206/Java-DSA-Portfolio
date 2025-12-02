@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
