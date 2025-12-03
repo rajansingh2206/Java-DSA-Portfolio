@@ -1,24 +1,17 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        Map<Integer,Integer> map=new LinkedHashMap<>();
         int n=nums.length;
+        int insertPos=0;
         for(int i=0;i<n;i++){
-            map.put(i,nums[i]);
-        }
-        int count=0;
-        int idx=0;
-        for(Map.Entry<Integer,Integer> m:map.entrySet()){
-            if(m.getValue()==0)
-                count++;
-            else
-            {
-                nums[idx]=m.getValue();
-                idx++;
+            if(nums[i]!=0){
+                nums[insertPos]=nums[i];
+                insertPos++;
             }
         }
-        while(idx<n){
-            nums[idx]=0;
-            idx++;
+        while(insertPos<n)
+        {
+            nums[insertPos]=0;
+            insertPos++;
         }
     }
 }
