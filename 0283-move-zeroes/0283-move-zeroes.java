@@ -16,11 +16,9 @@ class Solution {
                 idx++;
             }
         }
-        int lastIdx=n-1;
-        while(count!=0){
-            nums[lastIdx]=0;
-            lastIdx--;
-            count--;
+        while(idx<n){
+            nums[idx]=0;
+            idx++;
         }
     }
 }
