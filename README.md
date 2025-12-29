@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0747-min-cost-climbing-stairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Greedy
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3227-find-missing-and-repeated-values) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
