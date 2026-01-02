@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
