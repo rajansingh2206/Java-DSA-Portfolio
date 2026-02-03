@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0410-split-array-largest-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0435-non-overlapping-intervals) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -326,12 +329,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -353,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0948-sort-an-array) |
@@ -628,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0310-minimum-height-trees) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
