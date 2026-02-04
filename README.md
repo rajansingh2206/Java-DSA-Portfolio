@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0268-missing-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0290-word-pattern) |
