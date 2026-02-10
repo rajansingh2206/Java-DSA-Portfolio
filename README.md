@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0394-decode-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1922-count-good-numbers) |
 ## Simulation
