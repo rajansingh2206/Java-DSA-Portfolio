@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0890-lemonade-change](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2032-largest-odd-number-in-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/3227-find-missing-and-repeated-values) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1250-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
