@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0812-rotate-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0844-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1250-longest-common-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0844-backspace-string-compare) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2271-rearrange-array-elements-by-sign) |
