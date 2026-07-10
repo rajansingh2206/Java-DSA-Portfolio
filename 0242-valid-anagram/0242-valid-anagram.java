@@ -1,12 +1,10 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char a[]=s.trim().toCharArray();
-        char b[]=t.trim().toCharArray();
+        char[] a=s.trim().toLowerCase().toCharArray();
+        char[] b=t.trim().toLowerCase().toCharArray();
         Arrays.sort(a);
         Arrays.sort(b);
-        if(Arrays.equals(a,b))
-            return true;
-        else
-            return false;
+        boolean ans=Arrays.equals(a,b);
+        return ans;
     }
 }
