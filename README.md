@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajansingh2206/Java-DSA-Portfolio/tree/master/0908-middle-of-the-linked-list) |
 ## Memoization
 |  |
